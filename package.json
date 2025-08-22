@@ -21,8 +21,6 @@
     "axios": "^1.11.0",
     "axios-cookiejar-support": "^6.0.4",
     "dotenv": "^17.2.1",
-    "imapflow": "^1.0.194",
-    "mailparser": "^3.7.4",
     "prompt-sync": "^4.2.0",
     "tough-cookie": "^6.0.0"
   }
